@@ -1,7 +1,11 @@
 aid: systemax
-url: https://raw.githubusercontent.com/api-evangelist/systemax/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/systemax/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.systemax.com
+description: >-
+  Systemax was a direct marketer of brand name and private label products including
+  industrial and business equipment, computers, computer supplies, and consumer electronics.
