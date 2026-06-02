@@ -2,13 +2,13 @@
   "repo": "systemax",
   "feeds": [
     {
-      "source": "https://www.globalindustrial.com/blog",
-      "feed_url": "",
+      "source": "https://www.globalindustrial.com/c/about-us",
+      "feed_url": "https://www.globalindustrial.com/c/about-us",
       "title": "",
       "saved": 0,
-      "error": "no_feed"
+      "method": "none"
     }
   ],
-  "fetched": "2026-05-17T20:48:52Z",
+  "fetched": "2026-06-01T23:35:02Z",
   "post_count": 0
 }
