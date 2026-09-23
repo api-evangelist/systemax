@@ -1,7 +1,9 @@
 ---
 title: Monster Cable, Systemax Settle Patent Flap
 url: https://www.law360.com/articles/62721/monster-cable-systemax-settle-patent-flap
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Systemax" press release artificial intelligence'
 position: 4
 source: serpapi-google

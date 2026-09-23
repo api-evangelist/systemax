@@ -1,7 +1,9 @@
 ---
 title: Artificial intelligence is reshaping marketing
 url: https://www.springfieldbusinessjournal.com/articles/artificial-intelligence-is-reshaping-marketing-15248997/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Systemax" press release artificial intelligence'
 position: 1
 source: serpapi-google
