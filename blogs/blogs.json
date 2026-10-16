@@ -2,6 +2,10 @@
   "repo": "systemax",
   "feeds": [
     {
+      "source": "https://www.globalindustrial.com/blog",
+      "error": "HTTPError"
+    },
+    {
       "source": "https://www.globalindustrial.com/c/about-us",
       "feed_url": "https://www.globalindustrial.com/c/about-us",
       "title": "",
@@ -9,7 +13,7 @@
       "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 0,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
